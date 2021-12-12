@@ -1,0 +1,49 @@
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-size: 20px;
+	font-family: Lobster;
+	background-color: #ff520052;
+}
+
+p {
+	color: red;
+	margin: 100px 0;
+	padding-bootom: 30px;
+}
+
+a {
+	text-decoration: none;
+	color: #678963;
+
+	
+}
+
+h1 {
+	color: black;
+	font-size: 60px;
+}
+h2 {
+	padding-bootom: 30px;
+}
+
+div {
+	width: 90%;
+	margin: auto;
+	padding: 100px;
+	background-color: white;
+	box-shadow: 0 0 10px 1 px rgba(0, 0, 0, 0.2);
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+
+}
+
